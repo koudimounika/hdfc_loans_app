@@ -11,6 +11,7 @@ pipeline {
      
 	 agent any
 	 stages {
+<<<<<<< HEAD
 	 
 	 stages {
 	 
@@ -26,3 +27,13 @@ pipeline {
 }
 	 }
 {
+=======
+	 stages {
+	 steps {
+	 }
+	 }
+
+
+}
+{
+>>>>>>> cace7fd94ebc51a28e0f8cde46f3bddb3f2e2a1a
